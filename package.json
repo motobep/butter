@@ -1,14 +1,32 @@
 {
-  "name": "butter",
-  "version": "1.0.0",
+  "name": "@motobep/butter",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motobep/butter.git"
+  },
+  "keywords": [
+    "butter",
+    "libresound",
+    "API",
+    "javascript"
+  ],
+  "files": [
+    "README.md",
+    "LICENSE",
+    "package.json",
+    "package-lock.json",
+    "tsconfig.json",
+    "src/"
+  ],
+  "author": "motobep",
+  "license": "MIT",
+  "homepage": "https://github.com/motobep/butter#readme",
   "type": "module",
   "dependencies": {
     "hls-ts": "^0.4.4",
