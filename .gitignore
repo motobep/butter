@@ -1,5 +1,7 @@
 /*
 !.gitignore
+!LICENSE
+
 !/src
 !/package.json
 !/package-lock.json
